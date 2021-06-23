@@ -1,0 +1,92 @@
+h1{
+    font-size: 90px;
+     color:#050202 ;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family: Tahoma, sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+} 
+h3{
+      font-family:  'Arial Narrow Bold', sans-serif;
+      color: #11999E;
+}
+.top-container{
+    background-color: burlywood;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+                position: absolute;
+                right: 300px;
+                top: 50px;
+            }
+.bottom-cloud{
+                position: absolute;  
+                left: 300px;
+                bottom: 300px;
+            }
+
+
+body{  margin: 0;
+      color: #40514E;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.middle-container{
+    margin: 100PX 0;
+    background-color: rgb(255, 251, 246);
+   
+}
+
+.footer-link{
+    color: black;
+}
+
+
+.pc{
+    width: 15%;
+}
+.chil{
+    width: 10%;
+}
+.scr{
+    width: 10%;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #4b79fa;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:12px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:19px;
+	font-style:italic;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+}
+a:hover{ color: #eaf6ea;
+
+}
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+      
