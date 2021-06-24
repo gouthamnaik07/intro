@@ -20,7 +20,7 @@ h3 {
 }
 .top-cloud {
   position: absolute;
-  right: 10vw;
+  right: 2vw;
   top: 8vh;
 }
 .bottom-cloud {
@@ -160,4 +160,4 @@ a:hover {
     font-size: 50px;
   }
 }
-/* end */
+/* */
