@@ -150,6 +150,11 @@ a:hover {
   .top-container p {
     font-size: 30px;
   }
+  .top-cloud {
+    width: 20vw;
+  }
+  .bottom-cloud {
+    width: 20vw;
   .body {
     font-size: 50px;
   }
